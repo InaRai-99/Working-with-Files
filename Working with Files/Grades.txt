@@ -1,0 +1,10 @@
+Kent, 70
+Clark, 90
+Ben, 50
+Glen, 100
+Dom, 45
+Lenard, 60
+Adam, 30
+Mark, 80
+Lucas, 99
+Finn, 100
